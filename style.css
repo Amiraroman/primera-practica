@@ -1,0 +1,52 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+header,footer{
+    background-color: rgb(20, 88, 84);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+section{
+    padding: 2%;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius:10%;
+}
+table{
+    width:100%;
+
+}
+caption{
+    color:rgb(7, 91, 70);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    line-height: 50px;
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:10px;
+}
+td{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    background-color:rgb(94, 145, 134);
+}
+.titulo{
+    color:rgb(142, 168, 190);
+    text-align: center;
+}
+.tarjeta{
+    text-align: center;
+    color:antiquewhite;
+    background-color:rgb(94, 145, 134);
+    display:inline-block;
+    border-radius:100%;
+}
